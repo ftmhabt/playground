@@ -1,10 +1,10 @@
-import DailyTips from "./components/daily-tips"
+import ResponsiveMenu from "./components/menu"
 
 function App() {
 
   return (
     <>
-      <DailyTips/>
+      <ResponsiveMenu/>
     </>
   )
 }
